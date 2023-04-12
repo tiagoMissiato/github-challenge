@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Challenge.Title" parent="TextAppearance.AppCompat.Title">
+    </style>
+
+    <style name="Challenge.Subtitle" parent="TextAppearance.AppCompat.Small">
+    </style>
+
+    <style name="Challenge.Description" parent="TextAppearance.AppCompat.Medium">
+    </style>
+
+    <style name="Challenge.Info.Title" parent="TextAppearance.AppCompat.Small">
+    </style>
+
+    <style name="CardView.Error" parent="CardView">
+        <item name="android:backgroundTint">@color/md_theme_dark_error</item>
+    </style>
+</resources>

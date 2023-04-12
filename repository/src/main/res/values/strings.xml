@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="empty_repository_list">No repository found</string>
+    <string name="load_repository_list">Loading repository list</string>
+    <string name="load_more_repository_list">Loading more repository</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="GitInfoCustomView">
+        <attr name="type" format="enum">
+            <enum name="star" value="0"/>
+            <enum name="fork" value="1"/>
+            <enum name="license" value="2"/>
+        </attr>
+    </declare-styleable>
+
+</resources>
