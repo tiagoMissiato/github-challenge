@@ -45,6 +45,6 @@
 - Criar um modulo :core-ui para se comportar como um Design System
 - Criar uma CI simples para executar os testes
 - Criar uma linha de loading no adapter para o carregamento da pagina
-- 
+
 ## Known issue
 - Todas as requests são cacheadas no room e quando existe mais de uma pagina cachead e o app perde a conexão na primeira request, ele se perde nas paginas, é precisa executar o pull to refresh e zerar o cache para funcionar normalmente
